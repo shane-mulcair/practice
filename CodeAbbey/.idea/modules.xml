@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CodeAbbey.iml" filepath="$PROJECT_DIR$/.idea/CodeAbbey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CoderByte/.idea/CoderByte.iml" filepath="$PROJECT_DIR$/../CoderByte/.idea/CoderByte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Codingbat/.idea/Codingbat.iml" filepath="$PROJECT_DIR$/../Codingbat/.idea/Codingbat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonChallenge/.idea/PythonChallenge.iml" filepath="$PROJECT_DIR$/../PythonChallenge/.idea/PythonChallenge.iml" />
     </modules>
   </component>
 </project>

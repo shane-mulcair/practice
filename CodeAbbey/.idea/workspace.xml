@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a271bc54-3bef-4e07-88b8-0cf53f2f244c" name="Default" comment="" />
+    <list default="true" id="a271bc54-3bef-4e07-88b8-0cf53f2f244c" name="Default" comment="Testing PyCharm commits">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CoderByte/Easy/First Reverse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CoderByte/Easy/LetterChanges.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/.idea/Codingbat.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/Warmup1/diff21.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/Warmup1/front_back.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/Warmup1/makes10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/Warmup1/missing_char.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/Warmup1/not_string.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/Warmup1/parrot_trouble.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/Warmup1/pos_neg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/Warmup1/sleep_in.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CodeAbbey.iml" afterPath="$PROJECT_DIR$/.idea/CodeAbbey.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/second-ten/arithmetic-progression.py" afterPath="$PROJECT_DIR$/second-ten/arithmetic-progression.py" />
+    </list>
     <ignored path="CodeAbbey.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,28 +54,58 @@
       <file leaf-file-name="arithmetic-progression.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/second-ten/arithmetic-progression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="87" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="87" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array_checksum.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inputs/array_checksum.txt">
+      <file leaf-file-name="missing_char.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/missing_char.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="128" selection-start-line="0" selection-start-column="128" selection-end-line="0" selection-end-column="128" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="array-checksum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="front_back.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/front_back.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="array-checksum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/second-ten/array-checksum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Step0.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PythonChallenge/Step0.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Step1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PythonChallenge/Step1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -70,12 +120,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Shane Mulcair" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sum-of-two.py" />
-        <option value="$PROJECT_DIR$/sum-in-loop.py" />
-        <option value="$PROJECT_DIR$/sums-in-loop.py" />
         <option value="$PROJECT_DIR$/inputs/min_of_two.txt" />
         <option value="$PROJECT_DIR$/min-of-two.py" />
         <option value="$PROJECT_DIR$/min-of-three.py" />
@@ -113,10 +168,20 @@
         <option value="$PROJECT_DIR$/first-ten/median-of-three.py" />
         <option value="$PROJECT_DIR$/first-ten/min-of-three.py" />
         <option value="$PROJECT_DIR$/first-ten/min-of-two.py" />
-        <option value="$PROJECT_DIR$/second-ten/arithmetic-progression.py" />
         <option value="$PROJECT_DIR$/inputs/arithmetic_progression.txt" />
         <option value="$PROJECT_DIR$/second-ten/array-checksum.py" />
         <option value="$PROJECT_DIR$/inputs/array_checksum.txt" />
+        <option value="$PROJECT_DIR$/../CoderByte/Easy/First Reverse.py" />
+        <option value="$PROJECT_DIR$/../CoderByte/Easy/LetterChanges.py" />
+        <option value="$PROJECT_DIR$/second-ten/arithmetic-progression.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/Warmup1/not_string.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/Warmup1/sleep_in.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/Warmup1/diff21.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/Warmup1/parrot_trouble.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/Warmup1/pos_neg.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/Warmup1/makes10.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/Warmup1/missing_char.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/Warmup1/front_back.py" />
       </list>
     </option>
   </component>
@@ -126,14 +191,14 @@
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -166,21 +231,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CodeAbbey" />
+              <option name="myItemId" value="Codingbat" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="second-ten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeAbbey" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeAbbey" />
+              <option name="myItemId" value="Warmup1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -189,94 +244,97 @@
       <pane id="Scratches" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonChallenge" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mulcas4\PycharmProjects\CodeAbbey\second-ten" />
       <recent name="C:\Users\mulcas4\PycharmProjects\CodeAbbey\first-ten" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.array-checksum">
-    <configuration default="false" name="median-of-three" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.missing_char">
+    <configuration default="false" name="First Reverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first-ten" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CoderByte/Easy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CodeAbbey" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first-ten/median-of-three.py" />
+      <module name="CoderByte" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CoderByte/Easy/First Reverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="min-of-two" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Step0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first-ten" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonChallenge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CodeAbbey" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first-ten/min-of-two.py" />
+      <module name="PythonChallenge" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonChallenge/Step0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="rounding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="LetterChanges" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first-ten" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CoderByte/Easy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CodeAbbey" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first-ten/rounding.py" />
+      <module name="CoderByte" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CoderByte/Easy/LetterChanges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="arithmetic-progression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="not_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/second-ten" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/Warmup1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CodeAbbey" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/second-ten/arithmetic-progression.py" />
+      <module name="Codingbat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/Warmup1/not_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="array-checksum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="missing_char" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/second-ten" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/Warmup1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="CodeAbbey" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/second-ten/array-checksum.py" />
+      <module name="Codingbat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/Warmup1/missing_char.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -416,19 +474,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.median-of-three" />
-      <item index="1" class="java.lang.String" itemvalue="Python.min-of-two" />
-      <item index="2" class="java.lang.String" itemvalue="Python.rounding" />
-      <item index="3" class="java.lang.String" itemvalue="Python.arithmetic-progression" />
-      <item index="4" class="java.lang.String" itemvalue="Python.array-checksum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.First Reverse" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Step0" />
+      <item index="2" class="java.lang.String" itemvalue="Python.LetterChanges" />
+      <item index="3" class="java.lang.String" itemvalue="Python.not_string" />
+      <item index="4" class="java.lang.String" itemvalue="Python.missing_char" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.array-checksum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.arithmetic-progression" />
-        <item index="2" class="java.lang.String" itemvalue="Python.rounding" />
-        <item index="3" class="java.lang.String" itemvalue="Python.min-of-two" />
-        <item index="4" class="java.lang.String" itemvalue="Python.median-of-three" />
+        <item index="0" class="java.lang.String" itemvalue="Python.missing_char" />
+        <item index="1" class="java.lang.String" itemvalue="Python.not_string" />
+        <item index="2" class="java.lang.String" itemvalue="Python.LetterChanges" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Step0" />
+        <item index="4" class="java.lang.String" itemvalue="Python.First Reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -481,6 +539,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing PyCharm commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing PyCharm commits" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -719,10 +781,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/second-ten/arithmetic-progression.py">
+    <entry file="file://$PROJECT_DIR$/../CoderByte/Easy/First Reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonChallenge/Step0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonChallenge/Step1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="87" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="87" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CoderByte/Easy/LetterChanges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <marker date="1465824793022" expanded="true" signature="23:535" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second-ten/array-checksum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/not_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/sleep_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/diff21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -735,10 +855,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/second-ten/array-checksum.py">
+    <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/parrot_trouble.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/makes10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second-ten/arithmetic-progression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/pos_neg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/missing_char.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/Warmup1/front_back.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
