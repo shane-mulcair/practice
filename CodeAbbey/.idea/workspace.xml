@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a271bc54-3bef-4e07-88b8-0cf53f2f244c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/combo_string.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/extra_end.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/first_half.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/first_two.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/hello_name.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/left2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/make_abba.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/make_out_word.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/make_tags.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/non_start.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String1/without_end.py" />
+    <list default="true" id="a271bc54-3bef-4e07-88b8-0cf53f2f244c" name="Default" comment="Finished string1">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/common_end.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/first_last6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/has23.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/make_ends.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/make_pi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/max_end3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/middle_way.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/reverse3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/rotate_left3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/same_first_last.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/sum2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List1/sum3.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CodeAbbey.iws" />
@@ -33,48 +34,7 @@
     <favorites_list name="CodeAbbey" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="without_end.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Codingbat/String1/without_end.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="combo_string.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Codingbat/String1/combo_string.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="non_start.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Codingbat/String1/non_start.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="left2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Codingbat/String1/left2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,19 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/inputs/average_of_array.txt" />
-        <option value="$PROJECT_DIR$/average-of-array.py" />
-        <option value="$PROJECT_DIR$/second-ten/weighted-sum-of-digits.py" />
-        <option value="$PROJECT_DIR$/second-ten/sum-of-digits.py" />
-        <option value="$PROJECT_DIR$/first-ten/body-mass-index.py" />
-        <option value="$PROJECT_DIR$/first-ten/average-of-array.py" />
-        <option value="$PROJECT_DIR$/first-ten/rounding.py" />
-        <option value="$PROJECT_DIR$/second-ten/vowel-count.py" />
-        <option value="$PROJECT_DIR$/first-ten/dice-rolling.py" />
-        <option value="$PROJECT_DIR$/first-ten/fahrenheit-celsius.py" />
-        <option value="$PROJECT_DIR$/first-ten/max-of-array.py" />
-        <option value="$PROJECT_DIR$/first-ten/median-of-three.py" />
-        <option value="$PROJECT_DIR$/first-ten/min-of-three.py" />
         <option value="$PROJECT_DIR$/first-ten/min-of-two.py" />
         <option value="$PROJECT_DIR$/inputs/arithmetic_progression.txt" />
         <option value="$PROJECT_DIR$/second-ten/array-checksum.py" />
@@ -146,6 +93,19 @@
         <option value="$PROJECT_DIR$/../Codingbat/String1/combo_string.py" />
         <option value="$PROJECT_DIR$/../Codingbat/String1/non_start.py" />
         <option value="$PROJECT_DIR$/../Codingbat/String1/left2.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/first_last6.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/same_first_last.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/make_pi.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/common_end.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/sum3.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/rotate_left3.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/reverse3.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/max_end3.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/sum2.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/middle_way.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/make_ends.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List1/has23.py" />
       </list>
     </option>
   </component>
@@ -198,20 +158,6 @@
               <option name="myItemId" value="Codingbat" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Warmup2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodeAbbey" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Codingbat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -223,7 +169,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="String1" />
+              <option name="myItemId" value="List1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -241,58 +187,7 @@
       <recent name="C:\Users\mulcas4\PycharmProjects\CodeAbbey\first-ten" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.left2">
-    <configuration default="false" name="first_half" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/String1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Codingbat" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/String1/first_half.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="without_end" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/String1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Codingbat" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/String1/without_end.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="combo_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/String1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Codingbat" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/String1/combo_string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.common_end">
     <configuration default="false" name="non_start" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -323,6 +218,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Codingbat" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/String1/left2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="List1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Codingbat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/List1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="same_first_last" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/List1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Codingbat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/List1/same_first_last.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="common_end" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/List1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Codingbat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/List1/common_end.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -462,19 +408,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.first_half" />
-      <item index="1" class="java.lang.String" itemvalue="Python.without_end" />
-      <item index="2" class="java.lang.String" itemvalue="Python.combo_string" />
-      <item index="3" class="java.lang.String" itemvalue="Python.non_start" />
-      <item index="4" class="java.lang.String" itemvalue="Python.left2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.non_start" />
+      <item index="1" class="java.lang.String" itemvalue="Python.left2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.List1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.same_first_last" />
+      <item index="4" class="java.lang.String" itemvalue="Python.common_end" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.left2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.non_start" />
-        <item index="2" class="java.lang.String" itemvalue="Python.combo_string" />
-        <item index="3" class="java.lang.String" itemvalue="Python.without_end" />
-        <item index="4" class="java.lang.String" itemvalue="Python.first_half" />
+        <item index="0" class="java.lang.String" itemvalue="Python.common_end" />
+        <item index="1" class="java.lang.String" itemvalue="Python.same_first_last" />
+        <item index="2" class="java.lang.String" itemvalue="Python.List1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.left2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.non_start" />
       </list>
     </recent_temporary>
   </component>
@@ -513,12 +459,19 @@
       <option name="project" value="LOCAL" />
       <updated>1465919136498</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished string1">
+      <created>1465977774124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1465977774125</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -554,117 +507,15 @@
     <MESSAGE value="Testing PyCharm commits" />
     <MESSAGE value="End of day commit for python practice" />
     <MESSAGE value="Finished warmup2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished warmup2" />
+    <MESSAGE value="Finished string1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished string1" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/second-ten/vowel-count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="51" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/second-ten/weighted-sum-of-digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="59" selection-start-line="0" selection-start-column="59" selection-end-line="0" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/average-of-array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="53" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/body-mass-index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/dice-rolling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="53" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/fahrenheit-celsius.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/max-of-array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="51" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/median-of-three.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="52" selection-start-line="0" selection-start-column="52" selection-end-line="0" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/min-of-three.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="50" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/rounding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="51" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/sum-in-loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first-ten/min-of-two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inputs/arithmetic_progression.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../CoderByte/Easy/First Reverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -955,7 +806,7 @@
     <entry file="file://$PROJECT_DIR$/../Codingbat/String1/combo_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="20" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -963,7 +814,15 @@
     <entry file="file://$PROJECT_DIR$/../Codingbat/String1/non_start.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -971,7 +830,103 @@
     <entry file="file://$PROJECT_DIR$/../Codingbat/String1/left2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="27" />
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/first_last6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/same_first_last.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/make_pi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/common_end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/sum3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/rotate_left3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/max_end3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/reverse3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/sum2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/middle_way.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/make_ends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List1/has23.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="63" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="63" />
           <folding />
         </state>
       </provider>
