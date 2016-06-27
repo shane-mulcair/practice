@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14017a42-f8dc-4070-ba6e-00cc74a9634e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String2/cat_dog.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String2/count_code.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String2/count_hi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String2/double_char.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String2/end_other.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/String2/xyz_there.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CodeAbbey/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../CodeAbbey/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Codingbat/Logic2/close_far.py" afterPath="$PROJECT_DIR$/../Codingbat/Logic2/close_far.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Codingbat/Logic2/lone_sum.py" afterPath="$PROJECT_DIR$/../Codingbat/Logic2/lone_sum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Codingbat/Logic2/lucky_sum.py" afterPath="$PROJECT_DIR$/../Codingbat/Logic2/lucky_sum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Codingbat/Logic2/make_bricks.py" afterPath="$PROJECT_DIR$/../Codingbat/Logic2/make_bricks.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Codingbat/Logic2/make_chocolate.py" afterPath="$PROJECT_DIR$/../Codingbat/Logic2/make_chocolate.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Codingbat/Logic2/no_teen_sum.py" afterPath="$PROJECT_DIR$/../Codingbat/Logic2/no_teen_sum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Codingbat/Logic2/round_sum.py" afterPath="$PROJECT_DIR$/../Codingbat/Logic2/round_sum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonChallenge.iml" afterPath="$PROJECT_DIR$/.idea/PythonChallenge.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="14017a42-f8dc-4070-ba6e-00cc74a9634e" name="Default" comment="Finished String2">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List2/big_diff.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List2/centered_average.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List2/count_evens.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List2/has22.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List2/sum13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Codingbat/List2/sum67.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PythonChallenge.iws" />
@@ -40,31 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="double_char.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Codingbat/String2/double_char.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="count_hi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Codingbat/String2/count_hi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="cat_dog.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Codingbat/String2/cat_dog.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="45" />
+              <caret line="1" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -74,17 +43,77 @@
         <entry file="file://$PROJECT_DIR$/../Codingbat/String2/count_code.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xyz_there.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="xyz_there.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Codingbat/String2/xyz_there.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="46" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="count_evens.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Codingbat/List2/count_evens.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum13.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Codingbat/List2/sum13.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum67.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Codingbat/List2/sum67.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="has22.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Codingbat/List2/has22.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="centered_average.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Codingbat/List2/centered_average.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="big_diff.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Codingbat/List2/big_diff.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -110,6 +139,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jack.p.ryan@gmail.com" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -136,6 +170,12 @@
         <option value="$PROJECT_DIR$/../Codingbat/String2/count_code.py" />
         <option value="$PROJECT_DIR$/../Codingbat/String2/end_other.py" />
         <option value="$PROJECT_DIR$/../Codingbat/String2/xyz_there.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List2/count_evens.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List2/sum13.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List2/sum67.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List2/has22.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List2/centered_average.py" />
+        <option value="$PROJECT_DIR$/../Codingbat/List2/big_diff.py" />
       </list>
     </option>
   </component>
@@ -198,7 +238,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="String2" />
+              <option name="myItemId" value="List2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -229,88 +269,88 @@
       <recent name="C:\Users\mulcas4\PycharmProjects\PythonChallenge\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.end_other">
-    <configuration default="false" name="Step10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.big_diff">
+    <configuration default="false" name="sum13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonChallenge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Step11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonChallenge" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Step11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Step12" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/resources" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonChallenge" />
-      <option name="SCRIPT_NAME" value="C:\Users\mulcas4\PycharmProjects\PythonChallenge\Step12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="count_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/String2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/List2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Codingbat" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/String2/count_code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/List2/sum13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="end_other" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="sum67" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/String2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/List2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Codingbat" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/String2/end_other.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/List2/sum67.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="has22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/List2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Codingbat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/List2/has22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="centered_average" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/List2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Codingbat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/List2/centered_average.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="big_diff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Codingbat/List2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Codingbat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Codingbat/List2/big_diff.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -450,19 +490,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Step10" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Step11" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Step12" />
-      <item index="3" class="java.lang.String" itemvalue="Python.count_code" />
-      <item index="4" class="java.lang.String" itemvalue="Python.end_other" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sum13" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sum67" />
+      <item index="2" class="java.lang.String" itemvalue="Python.has22" />
+      <item index="3" class="java.lang.String" itemvalue="Python.centered_average" />
+      <item index="4" class="java.lang.String" itemvalue="Python.big_diff" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.end_other" />
-        <item index="1" class="java.lang.String" itemvalue="Python.count_code" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Step12" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Step11" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Step10" />
+        <item index="0" class="java.lang.String" itemvalue="Python.big_diff" />
+        <item index="1" class="java.lang.String" itemvalue="Python.centered_average" />
+        <item index="2" class="java.lang.String" itemvalue="Python.has22" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sum67" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sum13" />
       </list>
     </recent_temporary>
   </component>
@@ -480,6 +520,14 @@
       <option name="presentableId" value="Default" />
       <updated>1463586364026</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished String2">
+      <created>1466778433061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1466778433061</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -516,65 +564,16 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished String2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished String2" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Step5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Step6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Step7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Step8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="67" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Step9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="111" selection-start-line="2" selection-start-column="111" selection-end-line="2" selection-end-column="111" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Step10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Step11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -901,7 +900,7 @@
     <entry file="file://$PROJECT_DIR$/../Codingbat/String2/cat_dog.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="45" />
+          <caret line="1" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -917,7 +916,7 @@
     <entry file="file://$PROJECT_DIR$/../Codingbat/String2/count_code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -925,7 +924,55 @@
     <entry file="file://$PROJECT_DIR$/../Codingbat/String2/xyz_there.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="46" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List2/count_evens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List2/sum13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List2/sum67.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List2/has22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List2/centered_average.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Codingbat/List2/big_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="27" />
           <folding />
         </state>
       </provider>
